@@ -1,7 +1,6 @@
 package practice1
 
 import (
-	"bytes"
 	"io"
 	"os"
 	"testing"
